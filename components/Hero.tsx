@@ -31,7 +31,7 @@ export default function Hero() {
       </div>
 
       <div className="relative mx-auto aspect-[4/5] w-full max-w-sm overflow-hidden rounded-3xl shadow-xl ring-1 ring-slate-200">
-        <Image src="/arif.jpg" alt="Portrait of 'Arif Isahak" fill priority sizes="(min-width: 768px) 360px, 80vw" className="object-cover object-top" />
+        <Image src="/arif_gambar.jpg" alt="Portrait of 'Arif Isahak" fill priority sizes="(min-width: 768px) 360px, 80vw" className="object-cover object-top" />
       </div>
     </section>
   );
