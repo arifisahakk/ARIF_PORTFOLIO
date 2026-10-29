@@ -6,7 +6,7 @@ export const profile = {
   email: "arif05.isahak@gmail.com",
   linkedin: "https://www.linkedin.com/in/arif-isahak-7889082ab/", // TODO: paste your LinkedIn URL
   github: "https://github.com/arifisahakk", // TODO: paste your GitHub URL
-  cv: "CV ('ARIF ISAHAK).pdf", // TODO: put your CV PDF in /public
+  cv: "CV ('Arif bin Isahak).pdf", // TODO: put your CV PDF in /public
   stats: [
     { label: "CGPA (USM)", value: "3.52" },
     { label: "Dean's List", value: "2×" },
@@ -19,7 +19,7 @@ export const featuredSkills = ["Python", "Kotlin", "Next.js", "TensorFlow", "Lan
 
 export const skillGroups = [
   { title: "Languages", items: ["Python", "C++", "Java", "JavaScript", "R"] },
-  { title: "AI / ML & Data", items: ["TensorFlow", "Keras", "LangChain", "Hugging Face", "MLOps", "Pandas", "NumPy"] },
+  { title: "AI / ML & Data", items: ["TensorFlow", "Keras", "LangChain", "Hugging Face", "MLOps", "Pandas", "NumPy", "Streamlit"] },
   { title: "Web", items: ["Next.js", "React", "Node.js", "HTML/CSS", "Vercel"] },
   { title: "Mobile", items: ["Kotlin", "Android Studio", "Jetpack Compose"] },
   { title: "Backend & Data", items: ["RESTful APIs", "Java Servlets", "Firebase", "MySQL", "Oracle APEX"] },
@@ -28,7 +28,7 @@ export const skillGroups = [
 
 export const experience = {
   company: "SmartLab Sdn. Bhd.",
-  role: "Android Developer (Pre-Internship)",
+  role: "Android Developer (Short Internship)",
   period: "Feb 2026 – Mar 2026",
   stack: ["Android Studio", "Kotlin", "Python", "RESTful APIs", "Firebase", "Streamlit"],
   points: [
@@ -88,7 +88,7 @@ export const leadership = {
 };
 
 export const awards = [
-  { title: "1st Place, Pitching Project", detail: "Muharrik Zon vs Zon, HARMONI Malaysia (2025)" },
+  { title: "1st Place, Pitching Project", detail: "Muharrik Zon vs Zon, HARMONI Malaysia 2025" },
   { title: "Gold Medal", detail: "International Innovation & Entrepreneurship Carnival, 2024" },
   { title: "5th Place, ECO-Challenge", detail: "Material Product and Design Eco-Challenge, 2024" },
   { title: "Best Student", detail: "SPM 2023 · 11A's" },

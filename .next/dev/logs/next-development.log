@@ -1,4 +1,10 @@
-{"timestamp":"00:00:00.942","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:03.228","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:01:08.034","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:05:20.644","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"00:00:07.521","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:10.556","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:16.538","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:22.608","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:24.349","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:36.768","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:38.722","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:40.375","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:49.561","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"00:00:54.809","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}

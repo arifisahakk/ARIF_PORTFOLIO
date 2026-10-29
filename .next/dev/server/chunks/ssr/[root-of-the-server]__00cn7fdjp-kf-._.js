@@ -897,7 +897,7 @@ const profile = {
     email: "arif05.isahak@gmail.com",
     linkedin: "https://www.linkedin.com/in/arif-isahak-7889082ab/",
     github: "https://github.com/arifisahakk",
-    cv: "CV ('ARIF ISAHAK).pdf",
+    cv: "CV ('Arif bin Isahak).pdf",
     stats: [
         {
             label: "CGPA (USM)",
@@ -944,7 +944,8 @@ const skillGroups = [
             "Hugging Face",
             "MLOps",
             "Pandas",
-            "NumPy"
+            "NumPy",
+            "Streamlit"
         ]
     },
     {
@@ -986,7 +987,7 @@ const skillGroups = [
 ];
 const experience = {
     company: "SmartLab Sdn. Bhd.",
-    role: "Android Developer (Pre-Internship)",
+    role: "Android Developer (Short Internship)",
     period: "Feb 2026 – Mar 2026",
     stack: [
         "Android Studio",
@@ -1061,7 +1062,7 @@ const leadership = {
 const awards = [
     {
         title: "1st Place, Pitching Project",
-        detail: "Muharrik Zon vs Zon, HARMONI Malaysia (2025)"
+        detail: "Muharrik Zon vs Zon, HARMONI Malaysia 2025"
     },
     {
         title: "Gold Medal",
