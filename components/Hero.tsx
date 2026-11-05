@@ -19,8 +19,8 @@ export default function Hero() {
         <div className="mt-8 flex flex-wrap gap-3">
           <a href="#projects" className="btn bg-gradient-to-r from-blue-600 to-blue-500 text-white shadow-lg shadow-sky-500/30 hover:brightness-110">See my work →</a>
           <a href={profile.cv} className="btn border border-white/15 text-white hover:bg-white/10">Download CV</a>
-          <a href={profile.github} className="btn text-slate-300 hover:text-white">GitHub</a>
-          <a href={profile.linkedin} className="btn text-slate-300 hover:text-white">LinkedIn</a>
+          <a href={profile.github} className="btn border border-white/15 text-white hover:bg-white/10">GitHub</a>
+          <a href={profile.linkedin} className="btn border border-white/15 text-white hover:bg-white/10">LinkedIn</a>
         </div>
 
         <dl className="mt-10 grid grid-cols-2 gap-3 sm:grid-cols-4">
