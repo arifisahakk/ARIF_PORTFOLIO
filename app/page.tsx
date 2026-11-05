@@ -4,6 +4,7 @@ import Skills from "@/components/Skills";
 import Experience from "@/components/Experience";
 import Projects from "@/components/Projects";
 import Leadership from "@/components/Leadership";
+import Certifications from "@/components/Certifications";
 import Contact from "@/components/Contact";
 
 export default function Home() {
@@ -16,10 +17,11 @@ export default function Home() {
         <Experience />
         <Projects />
         <Leadership />
+        <Certifications />
         <Contact />
       </main>
-      <footer className="border-t border-slate-100 py-8 text-center text-xs text-slate-400">
-        © {new Date().getFullYear()} 'Arif Bin Isahak
+      <footer className="border-t border-white/10 py-8 text-center text-xs text-slate-500">
+        © {new Date().getFullYear()} 'Arif Bin Isahak · Built with Next.js & Tailwind CSS
       </footer>
     </>
   );

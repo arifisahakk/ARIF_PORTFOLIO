@@ -1,10 +1,12 @@
-export default function Section({
-  id, title, eyebrow, children,
-}: { id: string; title: string; eyebrow?: string; children: React.ReactNode }) {
+import Reveal from "./Reveal";
+
+export default function Section({ id, eyebrow, title, children }: { id: string; eyebrow: string; title: string; children: React.ReactNode }) {
   return (
-    <section id={id} className="mx-auto max-w-5xl scroll-mt-20 px-6 py-20">
-      {eyebrow && <p className="mb-2 text-sm font-medium uppercase tracking-widest text-accent">{eyebrow}</p>}
-      <h2 className="mb-10 text-3xl font-bold tracking-tight text-slate-900">{title}</h2>
+    <section id={id} className="mx-auto max-w-6xl scroll-mt-20 px-6 py-20">
+      <Reveal>
+        <p className="mb-3 font-mono text-xs uppercase tracking-[0.25em] text-sky-300">{`// ${eyebrow}`}</p>
+        <h2 className="mb-12 font-display text-3xl font-bold tracking-tight text-white sm:text-4xl">{title}</h2>
+      </Reveal>
       {children}
     </section>
   );
